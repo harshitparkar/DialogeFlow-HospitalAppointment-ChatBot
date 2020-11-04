@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "newagent-wfdx",
+  "private_key_id": "bf7f889eae3b8d42f72d5db55c7ac9f6e14e5779",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDGyCtoUfcdk3Dn\nZpJbBquu1aHuhjXvlMJ/m2q6yY6zGeMhw+ay8YzqwcFk+0WduJL/16aKKnd32K2t\nDDfg3LSkTqCmhhuwgHHsJ0ZZLoKH3lu1t3pevisxtiKue9Hvs7j65et1Al8tzySI\nrg6vFVWKqKcpDRAwUkla9NflPi54wSYUYtI1bp78hUFzjItKCInT+yxz+ButjiAd\nLq9Zo7FdU/o3dAQRZBZ7Fwd0azdOCgcywguLYWLn+nvFsApGW4hr7+x3hJtBe1pZ\nz5VOxBgYEybiID8NWMRnLnm7nnKc3Ab71vFPPB0iSNZ/wXapkwrRon30zwvMKnK9\nxF3ZeKKFAgMBAAECggEACCRUxX4Yor588Q1zey+nwo5/hnc60v2t2xow4fEK25fO\nL34y/ytY++3vD5rMfCxTi7p32NA/z8nb5er1Mvb3SITr8ZuBRivMqWvmZsAP7/ln\nROcnUlAfEXcwrng7M208wLzAIIJ2BuNQJMUJrEQxxRnUAaDGWU8AMC3igJeZFwWy\nbHMobHqxvWFhDdGSZ4VU/FHP52RdxVV/DDdoolnGY0H3O7FS/4kkQQme9Pvfmw0J\n2ggVg+KjVRrUp6cNnw2NBF3fOIqVSBd3WLEcOG9+mX0PfHUhks+QIvFuXUJiOAQo\nKSzbNwIy6iSndnHLadhspGdeb1fFa7QQROBHXhIllQKBgQDwNk/zKX845Sutu0l0\n0cL3vwmQoVHgQ/9S9nYQgR7oRmiVPxrz7eGlIeh4a8SRI57PmlbU0m2UjLojDjBN\nv0SE9J4q9v2gGm7IRFa4KGT0A28sLXetUB5mtgxo9lX50uYkGxJQA9Uj/+V4hrGM\nPoad/mYC6QcjzuLHVBXwk6xsDwKBgQDT2MXjsNDDxHavvTmgA4CusZbkaQ0OJBqz\nrv2V/93iZAnlr6fuIy2mEePizgQFmsvl49RSKN5DjoMYbKGIw7IjnO/R/j3BU6x2\nGBlQNQ3BudGhnTwBa70e7FWZPYC5qirEVBkvNxzpRUU8jYahfu6v8u3hf7qb52T7\nZpPLv8nEKwKBgBwIOoxF63LYS6CampfnYrlGsfcO3F8vkDw+RsjmSJUSomHIW3zb\n5dk/e8GR0f6eCYpwmHF9nQwY4B/3J+vqxjQ917dr220zqHn2f6g+DonrXK3rIGw5\nTVLvK8OT+7SLyA+umRR9XgI1erH2BgI3yb3mUkFEsHCdVBmu1mCc2yJBAoGAJbdu\nY/9S68fKqbcyzz5QZsnPZ5Mcc+wRpPP+yfnn8yqEaJRBfbBdrDd7LyImrSjGLIPH\nhWkpSTXSOUL972+IA7cpK2XscMMI7W2U9Ca98EO5AuEPkeEwppTFGKdOh7+4JYQj\nh7h0OUPP89vuoEoNDN5fY8pt2tvzqp60qY3XykkCgYBoNLeyZCkp2X/uNOGNM8JE\nql9cBiSA9qHxTvnu6Qpz+8foNwGQcesGM6M5Jpe65V6iaPr/oROvyB11xMVXNw7Z\nbLS1LqndkGmFF/8r5mw3BOAN+0Wun3fSxrLmBVDkg7APTW6wEtxm05OWWzjd6GOe\nQmiPLQZkco3IPFEwfwxK0w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hospitalchatbot@newagent-wfdx.iam.gserviceaccount.com",
+  "client_id": "113603256334502136032",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hospitalchatbot%40newagent-wfdx.iam.gserviceaccount.com"
+}
